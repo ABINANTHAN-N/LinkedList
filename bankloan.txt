@@ -1,0 +1,18 @@
+imort java.util.*;
+public class a{
+    public static void main(String args[]){
+        LinkedList<String> detail=new LinkedList<>();
+        {
+        detail.add("Adahar card");
+        detail.add("Civil score");
+        detail.add("pan card");
+        if(detail.contains("Adahar card")&&detail.contains("Civil score")&&detail.contains("pan card"))
+        {
+            System.out.println("Elligible");
+        }
+        else
+        {
+            System.out.println("Not Elligible");
+        }
+    }
+    }}
