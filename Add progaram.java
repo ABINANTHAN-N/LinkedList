@@ -21,3 +21,7 @@ public class b {
     }
     
 }
+/*output:
+subject
+courses
+[English, Tamil, Maths, ECE, CSE]*/
