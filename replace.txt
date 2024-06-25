@@ -5,7 +5,7 @@ public class Main
             public static void main(String[] args) 
 			{
 		        LinkedList<String> names = new LinkedList();
-		        names.add("Batman");
+		        names.add(Batman");
 		        names.add("Captain America");
 		        names.add("Blue Beetle");
 		        names.add("Superman");
@@ -17,3 +17,6 @@ public class Main
 	}
 
 }
+/* output:
+        [Batman,Captain America,Ironman,Superman,Thor]
+*/
