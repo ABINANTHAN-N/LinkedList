@@ -19,3 +19,6 @@ public class Main {
 	}
 
 }
+/*Output:
+       After clearing:[Superman, Thor] 
+*/
