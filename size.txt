@@ -10,10 +10,13 @@ public class Main {
         names.add("Blue Beetle");
         names.add("Superman");
         names.add("Thor");
+        System.out.println(names);
         System.out.println(names.size());
+       
 	}
 
 }
-/* output:
-    5
-/*
+/*Output:
+     [Batman,Captain America,Blue Beetle,Superman,Thor]
+     5 
+*/
